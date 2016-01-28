@@ -1,5 +1,8 @@
 text:
-	pdftotext -layout delays.pdf
+	pdftotext -layout delays-jun-nov.pdf
+	pdftotext -layout delays-dec.pdf
+	cat delays-jun-nov.txt delays-dec.txt > delays.txt 
+
 
 upload:
 	ipython nbconvert --to html analysis.ipynb

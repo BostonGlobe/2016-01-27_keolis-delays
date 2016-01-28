@@ -11504,4 +11504,1276 @@ MEC125 - Daily Mechanical Failure Report                                 Report 
 
                                                                                           W/O
                                                                                           Close Date
+                                                                                                         Daily Mechanical Failure Report
+                                                                                                                           From: 12/1/2015 To: 12/31/2015
+
+Date/Time           Incident   Delayed      Failed    Delay                                          W.O.           W.O.               W.O.                  Last PM
+Occurred            Number     Train #     Equip ID    Min     Delay Detail    Work Order #         Status        Comments          Close Date   Last PM   Finish Date
+
+12/1/15   5:22 am   27275        150        1629       13     ENGR. C.        MBETSI-2015-21575 CLOSED       Loose Wire At           12/2/15     CTC90M     5/5/04
+                                                              TROTTA                                         Terminal / Tightened
+                                                              REPORTED                                       Connection - Tested
+                                                              ALERTER ON CC                                  Ok
+                                                              1629 WAS NOT
+                                                              WORKING
+                                                              PROPERLY JUST
+                                                              BEFORE
+                                                              DEPARTURE
+                                                              TIME.
+
+12/1/15   7:30 am   27277        604        1072       14     ENGR REPORTS    MBETDH-2015-2035    CLOSED     All Wheel To Change     12/5/15     LOC90I     3/9/04
+                                                              ALARMS IN                                      Out - Completed -
+                                                              CONTROL CARý                                   Pre-Release
+                                                              WENT TO ENG                                    Completed
+                                                              TO
+                                                              INVESTIGATE.
+                                                              MAIN ENGINE
+                                                              AND HEP BOTH
+                                                              RUNNING BUT
+                                                              HEP NOT
+                                                              PROVIDING
+                                                              POWERý ALL
+                                                              COACHES DARK.
+                                                              UNABLE TO
+                                                              RESOLVEý
+                                                              CONTINUE TO
+                                                              BOSTON DARK.
+
+12/1/15   7:55 am   27278        160        2002       36     LOCOMOTIVE      MBETDH-2015-2037    CLOSED     Fuel High Pressure      12/12/15    MPI OIL    9/25/14
+                                                              2002 SHUT                                      Problems
+                                                              DOWNý CREW
+                                                              WAS NOT ABLE
+                                                              TO RESTARTý
+                                                              LITE POWER
+                                                              MOVE SENT OUT
+                                                              FOR RESCUE.
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                      Page 1 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                                         Daily Mechanical Failure Report
+                                                                                                                           From: 12/1/2015 To: 12/31/2015
+
+Date/Time           Incident   Delayed      Failed    Delay                                          W.O.           W.O.                W.O.                  Last PM
+Occurred            Number     Train #     Equip ID    Min     Delay Detail     Work Order #        Status        Comments           Close Date   Last PM   Finish Date
+
+12/1/15   2:27 pm   27280        324        2015       10     ENGINEER         MBETSI-2015-22345 CLOSED      Found No Ground          12/10/15    MPI OIL    10/7/15
+                                                              SCAPPACE                                       Faults. Inspected
+                                                              REPORTS ENG                                    Layover Protector
+                                                              2015 LOST                                      Circuit Breaker Works
+                                                              POWERý HAD TO                                  As Attended. E/S
+                                                              RE-START                                       Ditch Lights In High
+                                                              ENGINE IN                                      And Low Beam.
+                                                              LOWELL
+                                                              STATION.
+
+12/1/15   5:15 pm   27279        167        293         5     LOCOMOTIVE                                                                          LOC90I    11/19/15
+                                                              293 UNABLE TO
+                                                              MAKE TRACK
+                                                              SPEED.
+                                                              ENGINEER
+                                                              REPORTS POOR
+                                                              THROTTLE
+                                                              RESPONSE
+                                                              ABOVE THE 5TH
+                                                              NOTCH.
+
+12/2/15   6:00 am   27281        102        1643        8     NO WORKING       MBETCH-2015-5569   WORK       1 Yr Done                            CTC90I     12/7/04
+                                                              SPEEDOMETER                         FINISHED
+                                                              ON CONTROL
+                                                              CAR 1643.
+
+12/2/15   7:53 am   27282        509        2032        8     ENGINEER         MSHSI-2015-17863   CLOSED     Oil Sample Done          12/21/15    MPI OIL    6/2/15
+                                                              REPORTS                                        Machinist Report No
+                                                              COMPUTER                                       Issues With Screen
+                                                              RESET ON
+                                                              E-2032 AT
+                                                              SOUTH STATION.
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                       Page 2 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                                      Daily Mechanical Failure Report
+                                                                                                                          From: 12/1/2015 To: 12/31/2015
+
+Date/Time           Incident   Delayed      Failed    Delay                                          W.O.          W.O.                W.O.                       Last PM
+Occurred            Number     Train #     Equip ID    Min     Delay Detail    Work Order #         Status       Comments           Close Date   Last PM        Finish Date
+
+12/2/15   8:25 am   27283        53         1807        0     CANCELLED DUE   MBETCH-2015-6109    CLOSED     92 Day                  12/22/15    AC FILTER-30    9/8/15
+                                                              TO AIRLEAK                                     Inspection/Hvac
+                                                              FROM CONTROL                                   Inspection/
+                                                              CAR 1807.                                      Completed At The Bet
+                                                                                                             Pm 2 12/21/15
+                                                                                                             RICHARD.COAKLEY:
+                                                                                                             92 Day
+                                                                                                             Inspection/Hvac
+                                                                                                             Inspection
+                                                                                                             RICHARD.COAKLEY:
+                                                                                                             Performed 92 Day
+                                                                                                             Test On 1807 No
+                                                                                                             Problems Found
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                           Page 3 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                                        Daily Mechanical Failure Report
+                                                                                                                            From: 12/1/2015 To: 12/31/2015
+
+Date/Time           Incident   Delayed      Failed    Delay                                           W.O.           W.O.                W.O.                       Last PM
+Occurred            Number     Train #     Equip ID    Min     Delay Detail     Work Order #         Status        Comments           Close Date   Last PM        Finish Date
+
+12/3/15 12:00 am    27285        273        2022        4     ENG 2022         MBETSI-2015-22344 CLOSED       Seft Tested Rad          12/10/15    MPI OIL         8/26/15
+                                                              WOULD NOT                                       Fan.#1 At All Speeds
+                                                              LOAD.                                           Working Properly
+                                                                                                              With Corrent
+                                                                                                              Phase.Coolant
+                                                                                                              Radiator Fan#2 Was
+                                                                                                              Found With Its
+                                                                                                              Shutter Magnet Valve
+                                                                                                              Cut-Out And Shutters
+                                                                                                              Were Permanently
+                                                                                                              Close Causing
+                                                                                                              Coolant Temp. To
+                                                                                                              Rise Along With Oil
+                                                                                                              Temp. Causing
+                                                                                                              01-0146 Code And
+                                                                                                              Limited Horse Power.
+                                                                                                              Rad Fan #2 Was Self
+                                                                                                              Tested Along With Its
+                                                                                                              Shutters For Correct
+                                                                                                              Phase And Air
+                                                                                                              Flow.Tech. Found
+                                                                                                              Closed Shutters And
+                                                                                                              Hot Oil Had Caused
+                                                                                                              Limited Horse Power
+                                                                                                              At The Same Time
+                                                                                                              That A Current
+                                                                                                              Imbalanced Code
+                                                                                                              Came Up For Air
+                                                                                                              Intake On Radiator
+                                                                                                              Fan #1 There May Be
+                                                                                                              Some Softwere
+                                                                                                              Issues.
+
+12/3/15   6:44 am   27284        104        1802       11     PC HIT ON           MNS-2015-27      CLOSED     Cleared Pc Hit By        12/3/15     AC FILTER-30    7/1/13
+                                                              CONTROL CAR                                     Cycling The Fast
+                                                              1802.                                           Brake
+
+12/3/15 10:25 pm    27286        829        1074        8     8" MANSFIELD -   MPAWT-2015-3148     CLOSED     Static Load Tested Ok    12/4/15     LOC180M        12/31/03
+                                                              COULD NOT                                       Db Tested Ok
+                                                              CLEAR GROUND                                    Reset Board No
+                                                              FAULT RELAY                                     Further Grounds
+                                                                                                              Will Monitor
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                  Report Printed On: 1/28/2016                                                            Page 4 of 24
+
+
+
+                                                                                           W/O
+                                                                                           Close Date
+                                                                                                                        Daily Mechanical Failure Report
+                                                                                                                            From: 12/1/2015 To: 12/31/2015
+
+Date/Time           Incident   Delayed      Failed    Delay                                           W.O.           W.O.               W.O.                  Last PM
+Occurred            Number     Train #     Equip ID    Min     Delay Detail      Work Order #        Status        Comments          Close Date   Last PM   Finish Date
+
+12/4/15 11:43 am    27287        807        1075       23     23`` SS ACES        MSHSI-2016-9     CLOSED     Trouble Applying And     1/4/16     LOC45M     3/31/04
+                                                              PROBLEM ON                                      Releasing Brakes,
+                                                              THE 1075. T/M                                   Foreman And Carmen
+                                                              SWAPED                                          Preformed Brake
+                                                              EQUIPMENT.                                      Tests At South
+                                                                                                              Station Could Not
+                                                                                                              Find Any Issue, Put
+                                                                                                              Train Set On The
+                                                                                                              Shuttle That Crew
+                                                                                                              Had No Issues With
+                                                                                                              The Brakes, No
+                                                                                                              Exception With Train
+                                                                                                              Set Will Be On 6701
+                                                                                                              East In Am
+
+12/4/15   7:45 pm   27288        927        1135        3     ATC FAILURE     MBETDH-2015-2122     OPEN       Air Comp. Problems -                LOC45M     1/12/04
+                                                              LIGHT                                           Possible C/O
+                                                              ILLUMINATED ON
+                                                              E/1135
+                                                              DEPARTING
+                                                              RUGGLES
+                                                              STATION (SAME
+                                                              FAILURE AS LAST
+                                                              NIGHT ONLY AT
+                                                              BACK BAY)
+
+12/7/15   4:40 am   27290       3801        1122        7     BREAKS WOULD      MBETSI-2015-22041 CLOSED      Brakes Would Not        12/8/15     LOC180M    4/1/04
+                                                              NOT RELEASE.                                    Release Late .
+                                                              LATE OUT OF                                     Repaired Brakes
+                                                              THE YARD.                                       Tested Ok For
+                                                                                                              Services.
+
+12/7/15   7:22 am   27294        803        1027        4     ENGR REPORTS      MBETDH-2015-2146   CLOSED     Test Layover Front      12/9/15     LOC45M     9/9/04
+                                                              EXCESSIVE                                       And Bsck 480
+                                                              WHEELSLIP ENG                                   Nothing Found.
+                                                              1027 (LOST TIME                                 General Clean
+                                                              ON SHARON                                       Locomotive On
+                                                              HILLý AND                                       12/9/15
+                                                              BETWEEN
+                                                              HEBRONVILLE &
+                                                              ORMS)
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                  Report Printed On: 1/28/2016                                                      Page 5 of 24
+
+
+
+                                                                                           W/O
+                                                                                           Close Date
+                                                                                                                            Daily Mechanical Failure Report
+                                                                                                                              From: 12/1/2015 To: 12/31/2015
+
+Date/Time           Incident   Delayed      Failed    Delay                                             W.O.          W.O.                W.O.                    Last PM
+Occurred            Number     Train #     Equip ID    Min     Delay Detail       Work Order #         Status       Comments           Close Date   Last PM     Finish Date
+
+12/7/15   7:26 am   27292        842        1815        3     CAB SIG HIT        MPAWT-2015-3190     CLOSED     Tested Ok               12/8/15     AC FILTER-30 11/13/14
+
+
+
+
+12/7/15   7:45 am   27291        509        2032        8     CREW               MSHSI-2015-17012    CLOSED     E/S Headlights          12/7/15     MPI OIL       6/2/15
+                                                              REQUESTED CAR                                     Replaced
+                                                              INSPECTOR TO
+                                                              TIE UP AIR
+                                                              HOSES SO AS
+                                                              NOT TO DRAG
+                                                              ON GROUND.
+
+12/7/15   8:35 am   27293        750        1055        4     ENGR REPORTS        MSCIT-2015-1873    CLOSED     Power Tested Ok         12/9/15     LOC90I        6/4/04
+                                                              1055ENG NOT
+                                                              TAKING POWER.
+                                                              WAS ABLE TO
+                                                              DIAGNOSE &
+                                                              RESTORE.
+
+12/8/15   7:15 am   27296        507        2008        2     ENGINEER           MSHSI-2015-17159    CLOSED     Found Loose Cables      12/9/15     MPI OIL      1/26/15
+                                                              REPORTS
+                                                              HAVING TO                                         Discussed At 12-9-15
+                                                              RESTART HEP AT                                    Warranty Meeting
+                                                              BACK BAY &                                        With Mbta
+                                                              YAWKEYý
+                                                              TALKED WITH
+                                                              90/90.
+
+12/8/15   7:50 am   27297        074        1034       18     GREENBUSH           MSCIT-2015-1865    CLOSED     Fuel Sight Glass Was    12/8/15     LOC90I       10/7/04
+                                                              EXTRA SENT TO                                     Repaired
+                                                              REPLACE
+                                                              ORIGINAL
+                                                              EQUIP. BROKEN
+                                                              SIGHT GLASS
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                    Report Printed On: 1/28/2016                                                         Page 6 of 24
+
+
+
+                                                                                             W/O
+                                                                                             Close Date
+                                                                                                                          Daily Mechanical Failure Report
+                                                                                                                             From: 12/1/2015 To: 12/31/2015
+
+Date/Time            Incident   Delayed     Failed    Delay                                             W.O.          W.O.                W.O.                  Last PM
+Occurred             Number     Train #    Equip ID    Min     Delay Detail       Work Order #         Status       Comments           Close Date   Last PM   Finish Date
+
+12/8/15    5:45 pm   27298        334       1131       14     ENGINEER          MBETSI-2015-22176 CLOSED        Low On Gover. Oil In    12/9/15     LOC90I     5/27/04
+                                                              LETOURNEAU                                        Sight Glass.
+                                                              REPORTS
+                                                              ENGINE 1131
+                                                              SHUT DOWN
+                                                              COMING IN TO
+                                                              WILMINGTON
+                                                              STATION. WENT
+                                                              BACK AND
+                                                              FOUND FUEL
+                                                              PUMP CIRCUIT
+                                                              BREAKER
+                                                              TRIPPED.
+
+12/9/15    7:35 am   27303        201       1057        6     ENG 1057 SHUT      MBETDH-2015-2203    CLOSED     180 Day Test -          12/23/15    LOC1YRI    2/3/04
+                                                              DOWN AT                                           Completed -
+                                                              BRADFORD.                                         Pre-Release
+                                                              TURBO LIGHT                                       Completed
+                                                              TURNED ON.
+
+12/9/15    4:00 pm   27300        720       2012       18     LOCKED AXLE         MBETDH-2016-44     CLOSED     90 Day Test Replaced    1/10/16     MPI OIL   11/13/14
+                                                              ALARM.                                            B/O Water Pump On
+                                                                                                                Layover
+
+12/9/15 11:53 pm     27301        932       2024       18     LOST HEP WEST       MSCIT-2015-1895    CLOSED     Hep Checked, Cables     12/14/15    MPI OIL    7/29/15
+                                                              OF PLAINS                                         Checked, Running Ok
+                                                              RECOVERED
+                                                              ENG1822
+
+12/10/15    8:40 am 27304         453       2035       21     ENGR REPORTED      MBETDH-2015-2189    CLOSED     Sander Both Side And    12/10/15    MPI OIL    9/25/15
+                                                              CONSTANT                                          Inspected
+                                                              WHEEL SLIDE
+                                                              WHEN
+                                                              DEPARTING
+                                                              PORTER SQUARE
+                                                              STATION. HAD
+                                                              TO RESTART THE
+                                                              ENGINE BEFORE
+                                                              ABLE TO
+                                                              PROCEED.
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                    Report Printed On: 1/28/2016                                                      Page 7 of 24
+
+
+
+                                                                                             W/O
+                                                                                             Close Date
+                                                                                                                         Daily Mechanical Failure Report
+                                                                                                                             From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                           W.O.           W.O.                  W.O.                  Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail     Work Order #         Status        Comments             Close Date   Last PM   Finish Date
+
+12/11/15   9:38 am 27308        012         1069        0     ENGINE 1069      MSHSI-2015-17368    CLOSED     Governor Oil Over          12/11/15    LOC90M     1/15/07
+                                                              HAD NO                                          Filled. Drained To Fill
+                                                              GOVERNOR OIL.                                   Line. M/E Running
+                                                              TERMINATED AT                                   For 45 Minutes With
+                                                              BROCKTON.                                       No Issues
+
+12/11/15   6:10 pm 27310        821         1069       80     MAIN ENGINE      MBETDH-2015-2205    CLOSED     Repaired The Flight        12/15/15    LOC90M     1/15/07
+                                                              SHUT DOWN .                                     Box And Retested
+                                                                                                              Good
+
+12/12/15   4:40 am 27314       T-1311       2011       105    M/E SHUTDOWN     MBETDH-2015-2206    CLOSED     Found A Plug In The        12/14/15    MPI OIL    1/13/16
+                                                              - UNABLE TO                                     Fuel Tank Re Tested
+                                                              RESTART T1311                                   And Tested Good
+
+12/13/15 11:30 am 27311         2036        1722       28     UNABLE TO CUT    MBETCH-2015-6081    CLOSED     Techs, Tested Alertor      12/14/15    CTC2YRM    3/30/04
+                                                              THE AIR IN ON                                   Working As Intended.
+                                                              CC1722 - CUT                                    Sealed Cut Back In.
+                                                              OUT ACSES &
+                                                              TRAIN CONTROL
+                                                              PER
+                                                              MECHANICAL.
+
+12/13/15   8:35 pm 27312        2716        1820       18     23 LATE OUT OF   MSHYD-2015-2057     CLOSED     Atc Light Tested Ok        12/15/15    CTC90I     3/24/14
+                                                              FORGE PARK.
+                                                              TALKING TO
+                                                              MECHANICAL
+                                                              FOR ATC
+                                                              ISSUES.
+
+12/14/15 11:03 am 27315         612         2028       21     UNABLE TO                                                                              MPI OIL   10/12/15
+                                                              MAINTAIN AIR
+                                                              PRESSURE -
+                                                              CALLED
+                                                              MECHANICAL
+                                                              AND DID A
+                                                              RESETý CUT THE
+                                                              CC OUTý ENG IN
+                                                              & OUT AND CC
+                                                              BACK IN.
+                                                              RESOLVED
+                                                              PROBLEM.
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                  Report Printed On: 1/28/2016                                                         Page 8 of 24
+
+
+
+                                                                                           W/O
+                                                                                           Close Date
+                                                                                                                         Daily Mechanical Failure Report
+                                                                                                                           From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                          W.O.          W.O.                W.O.                  Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail     Work Order #        Status       Comments           Close Date   Last PM   Finish Date
+
+12/14/15   9:30 pm 27317        055         2034        0     MULTIPLE                                                                           MPI OIL    5/20/15
+                                                              ALARMSý OVER
+                                                              TO 90/90
+
+12/15/15   6:00 am 27318        102         1133        9     ENGINEER         MBETSI-2015-22741 CLOSED      Switch Out The Input    12/16/15    LOC45M     4/1/04
+                                                              N.DROWN                                        And Output Main
+                                                              REPORTS                                        Board And T/C Test
+                                                              OVERSPEED                                      Done.
+                                                              LIGHT FLASHING
+                                                              ON LOCOMOTIVE
+                                                              1133. TRAIN
+                                                              WAS LATE
+                                                              LEAVING
+                                                              ROCKPORT.
+
+12/15/15   5:10 pm 27319        331         1138        0     ENGINEER         MBETDH-2015-2265   CLOSED     Found A Tripped         12/16/15    LOC1YRI    3/2/04
+                                                              PAQUETTE                                       Breaker Reset And
+                                                              REPORTS MAIN                                   Run Tested No Issues
+                                                              ENGINE OF 1138                                 - Pre-Release
+                                                              SHUT DOWNý                                     Completed - Possible
+                                                              STOPPED                                        Ground Came
+                                                              FOULING BACK                                   Through Mu Circuit
+                                                              LADDER AT                                      And Caused The
+                                                              TOWER A.                                       Breaker To Trip
+                                                              TALKED WITH
+                                                              MECHANICAL
+                                                              HELP DESK AND
+                                                              UNABLE TO FIX
+                                                              PROBLEM. NO.
+                                                              331 CANCELLED.
+                                                              PASSENGERS
+                                                              TRANSFERRED
+                                                              TO NOS. 333
+                                                              AND 335.
+
+12/16/15   7:00 am 27321        505         2026        4     RADIO WAS FULL   MPAWT-2015-3295    CLOSED     Tested Ok               12/17/15    MPI OIL    7/10/15
+                                                              OF STATIC
+                                                              TRYING TO TALK
+                                                              WITH FRM AT
+                                                              CP4 RULE 135.
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                      Page 9 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                                        Daily Mechanical Failure Report
+                                                                                                                             From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                          W.O.           W.O.                 W.O.                  Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail     Work Order #        Status        Comments            Close Date   Last PM   Finish Date
+
+12/16/15   8:04 am 27323        203         1121        9     ENGINEER ROY                                                                         LOC180M     3/9/04
+                                                              REPORTS
+                                                              ENGINE 1121
+                                                              SHUT DOWN AT
+                                                              BALLARDVALEý
+                                                              HE WORKED
+                                                              WITH
+                                                              MECHANICAL
+                                                              DESK AND
+                                                              RESTARTED THE
+                                                              UNIT AND
+                                                              FOUND THE
+                                                              AUXILIARY
+                                                              GENERATOR HAD
+                                                              TRIPPED.
+
+12/16/15 10:45 am 27324         714         1053       31     GROUND RELAYS MBETSI-2015-23368 CLOSED         Ground Relays #1&         12/23/15    LOC45M     6/26/04
+                                                              ENROUTEý                                       #2 Traction Motors
+                                                              TROUBLESHOOT                                   Replaces.
+                                                              WITH MHD. CUT
+                                                              OUT #4 T/M IN
+                                                              FORGE PARKý #3
+                                                              IN WALPOLE &
+                                                              #1 IN WINSOR
+                                                              GARDENS.
+                                                              GROUND RELAYS
+                                                              STOPPED AFTER
+                                                              T/M #1
+                                                              CUT-OUT.
+
+12/16/15   3:43 pm 27325        017         1129       17     SS. RESTARTING   MSCIT-2015-1930    CLOSED     Hep Inspected             12/18/15    LOC90I     3/19/04
+                                                              THE HEP                                        Running Ok
+
+
+
+12/16/15   4:20 pm 27326        165         1115        6     LOCOMOTIVE       MBETDH-2015-2283   CLOSED     Found Acses Cut In        12/17/15    LOC90I     5/26/04
+                                                              1115 MULTIPLE                                  When In Non Acses
+                                                              UNEXPLAINED PC                                 Territory - Acses Self
+                                                              HITS ENROUTE.                                  Tested Ok Cut Back
+                                                              CUT OUT SPEED                                  Out For North Side
+                                                              CONTROL.                                       Lineup
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                        Page 10 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                                       Daily Mechanical Failure Report
+                                                                                                                           From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                          W.O.           W.O.                W.O.                  Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail     Work Order #        Status        Comments           Close Date   Last PM   Finish Date
+
+12/16/15   5:45 pm 27327        920         2020       14     UNABLE TO TAKE    MSHSI-2016-271    CLOSED     All Issues Are Ok         1/6/16     MPI OIL     7/2/15
+                                                              POWER FROM
+                                                              CC/1802.
+                                                              ISSUES WITH
+                                                              ENG 2020. ROAD
+                                                              FOREMAN ON
+                                                              BOARD
+                                                              ASSISTING
+
+12/16/15   6:15 pm 27328        723         1074        8     STOPPED AT                                                                          LOC180M    12/31/03
+                                                              CATPOLE 221.30
+                                                              RECOVER ON
+                                                              THE MOVE.
+
+12/17/15 12:00 am 27339         430         1631        0     ENGINEER         MBETSI-2016-335    CLOSED     No Other Issue From       1/6/16     CTC1YRM     4/7/04
+                                                              REPORTS                                        12-17-15 Oil Report.
+                                                              UNABLE TO
+                                                              MAINTAIN TRACK
+                                                              SPEED DUE TO
+                                                              CONSTANT
+                                                              WHEEL SLIP ON
+                                                              THE CONTROL
+                                                              COACH NO.
+                                                              1631.
+
+12/17/15   4:45 am 27331        581         1072        0     TERMINATED AT    MBETDH-2015-2307   CLOSED     1 Yr Air 1Yr Complete    1/14/16     LOC90I      3/9/04
+                                                              GRAFTON
+                                                              STATION
+
+12/17/15   5:58 am 27333        806         2002       90     DISABLED EAST                                                                       MPI OIL    9/25/14
+                                                              OF SHARON NO
+                                                              POWER ON THE
+                                                              2002
+
+12/17/15   7:30 am 27332        208         1131       25     LOST POWERý      MBETSI-2015-22911 CLOSED      Replace 480 Cable        12/17/15    LOC90I     5/27/04
+                                                              PIPE CLARK ST                                  On Engineer Side
+                                                              TO                                             Between The 1131
+                                                              WILMINGTON.                                    And Coach 814 Tech.
+                                                              FOUND LOOSE                                    Found Loose Cable.
+                                                              CABLE BETWEEN                                  Mu Test Done Works
+                                                              CONTROL CAR                                    As Attended.
+                                                              AND COACH.
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                       Page 11 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                                        Daily Mechanical Failure Report
+                                                                                                                           From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                           W.O.          W.O.                W.O.                  Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail     Work Order #         Status       Comments           Close Date   Last PM   Finish Date
+
+12/17/15 10:35 am 27334         080         1821       58     58" ENROUTE      MBETCH-2016-282     OPEN       92 Day                              CTC2YRI    10/20/15
+                                                              OPERATING                                       Inspection/Hvac
+                                                              FROM OTHER                                      Inspection/Rotem
+                                                              LEADING END                                     Spring Inspection
+                                                              (CUT OUT TRUCK                                  RICHARD.COAKLEY:
+                                                              ON 1821 CC A/C                                  Replaced All Tread
+                                                              AIR LEAK)                                       Brake Nipples At The
+                                                                                                              Bet Coach House
+
+12/17/15   4:50 pm 27336        919         1074       25     GROUND RELAY                                                                        LOC180M    12/31/03
+                                                              HITS STOPPED
+                                                              AT CAT POLE
+                                                              221.3.
+
+12/17/15   4:52 pm 27335        083         2024        0     SS RESTARTING                                                                       MPI OIL    7/29/15
+                                                              ENGINE
+
+
+
+12/17/15   5:12 pm 27337        021         1034        0     LOW AMPSý         MBETSI-2016-318    CLOSED     Performed Amps           1/6/16     LOC90I     10/7/04
+                                                              DEAD AT                                         Tested Ok. Coolant
+                                                              BRAINTREE                                       Hose Inspected Ok.
+                                                                                                              Bell Cartridge
+                                                                                                              Replace.
+
+12/17/15   6:20 pm 27338        425         1131       16     CREW REPORTS     MBETDH-2015-2286    CLOSED     Dropping Its Load -     12/22/15    LOC90I     5/27/04
+                                                              CONSTANT                                        Repaired Run Tested
+                                                              WHEEL SLIP ON                                   Ok
+                                                              THE ENGINE NO.
+                                                              1131. ENGINEER
+                                                              CUT OUT THE
+                                                              NO. 2 TRACTION
+                                                              MOTOR AT
+                                                              NORTH
+                                                              LEOMINSTER.
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                  Report Printed On: 1/28/2016                                                      Page 12 of 24
+
+
+
+                                                                                           W/O
+                                                                                           Close Date
+                                                                                                                       Daily Mechanical Failure Report
+                                                                                                                          From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                          W.O.          W.O.                W.O.                       Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail     Work Order #        Status       Comments           Close Date   Last PM        Finish Date
+
+12/18/15   4:00 am 27341        703         2025       14     COULD NOT          MSS-2015-26      CLOSED     Atc Penalty Present     12/18/15    MPI OIL         8/28/15
+                                                              MAKE PLATFORM                                  And Was Unable To
+                                                              IN FORGE PARK                                  Clear The Pcs
+                                                              DUE TO 702EQ                                   Penalty. I Had The
+                                                              ENG 2025 (PART                                 Engineer Cycle The
+                                                              OF 6701 DOUBLE                                 Atc, Acses And
+                                                              DRAFT IN                                       Fastbrake. The
+                                                              STATION )                                      Penalty Cleared And
+                                                              TROUBLE                                        They Were Able To
+                                                              RECOVERING                                     Get On The Move.
+                                                              FROM PC HIT TO
+                                                              CONTINUE WEST
+                                                              INTO YARD
+                                                              LIMITS.
+
+12/18/15   7:00 am 27343        505         1026       40     WELLESLEY        MBETDH-2015-2294   CLOSED     Main Gen Breaker        12/23/15    LOC45M          4/12/04
+                                                              SQUARE MAIN                                    Tripping - Grounded
+                                                              ENGINE SHUT                                    #2 Motor - Grounded
+                                                              DOWNý RESTART                                  Scr - Replaced -
+                                                              SAMEý AFTER                                    Found Grounded
+                                                              RESTART                                        Resistors Replaced -
+                                                              UNABLE TO GET                                  Pre-Release
+                                                              AMPRAGE                                        Completed - Done
+                                                              (WORKED WITH
+                                                              90/90)ý DOUBLE
+                                                              DRAFT WITH
+                                                              507.
+
+12/18/15   8:04 am 27344        705         1823        5     NO POWER         MBETCH-2016-298    OPEN       RICHARD.COAKLEY:                    AC FILTER-30     6/9/15
+                                                              ATTEMPTING TO                                  92 Day
+                                                              DEPART                                         Inspection/Hvac
+                                                              BOSTON.                                        Inspection
+                                                              TROUBLESHOOT
+                                                              AND CUT CC1823
+                                                              BACK INý THEN
+                                                              OUT AGAIN
+                                                              WHICH RESOLED
+                                                              PROBLEM.
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                           Page 13 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                                          Daily Mechanical Failure Report
+                                                                                                                              From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                             W.O.           W.O.                W.O.                  Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail       Work Order #         Status        Comments           Close Date   Last PM   Finish Date
+
+12/18/15   9:43 am 27345        073         2024       15     TRAIN                 MSS-2015-27      CLOSED     The South Station        12/18/15    MPI OIL    7/29/15
+                                                              WOULDN`T                                          Electrician Found The
+                                                              LOAD - LATE                                       Over Ride Switch In
+                                                              SWAP WITH                                         The Off Position.
+                                                              040`S EQ
+
+12/18/15 10:37 am 27347                     1034       18     LATE FROM YARD      MBETSI-2016-318    CLOSED     Performed Amps            1/6/16     LOC90I     10/7/04
+                                                              DUE TO ENGINE                                     Tested Ok. Coolant
+                                                              CUT (LOCO 1034                                    Hose Inspected Ok.
+                                                              LOW AMPERAGE)                                     Bell Cartridge
+                                                              FROM NO.021                                       Replace.
+                                                              12/17/15
+
+12/19/15   4:30 pm 27349       T-1157       1058        6     LAST MINUTE                                                                            LOC90I      3/9/04
+                                                              EQUIPMENT
+                                                              SWAP AT NORTH
+                                                              STATION DUE TO
+                                                              ORIGINAL
+                                                              EQUIPMENT
+                                                              (1058-5-1641)
+                                                              STARTED
+                                                              SMOKING WITH
+                                                              MULTIPLE
+                                                              ALARMS GOING
+                                                              OFF.
+
+12/20/15   9:30 pm 27350       T2084        1129       31     ENGR REPORTS       MBETDH-2015-2314    CLOSED     #1 Tm C/O -               1/2/16     LOC90I     3/19/04
+                                                              ENGINE NOT                                        Pre-Release
+                                                              TAKING POWERý                                     Completed - Done
+                                                              90/90ý CUT OUT
+                                                              #1 TRACTION
+                                                              MOTOR WITH
+                                                              SPEED SENSOR
+                                                              CUT IN
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                    Report Printed On: 1/28/2016                                                       Page 14 of 24
+
+
+
+                                                                                             W/O
+                                                                                             Close Date
+                                                                                                                        Daily Mechanical Failure Report
+                                                                                                                           From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                           W.O.          W.O.               W.O.                       Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail      Work Order #        Status       Comments          Close Date   Last PM        Finish Date
+
+12/21/15   6:55 pm 27352        T-94        2035        0     NO. 94            MBETDH-2016-20     CLOSED                             1/8/16     MPI OIL         9/25/15
+                                                              TERMINATED ON
+                                                              TIME JUST WEST
+                                                              OF WEST
+                                                              GLOUCESTER
+                                                              DUE TO HIGH
+                                                              PRESSURE FUEL
+                                                              SYSTEM
+                                                              PROBLEM (
+                                                              COMMON RAIL
+                                                              SYSTEM ) ON
+                                                              ENGINE 2035.
+
+12/22/15   8:48 am 27353        T509        2025       19     ENGR REPORTED     MBETSI-2016-834    CLOSED     Axle Lock Reset. Ok    1/15/16     MPI OIL         8/28/15
+                                                              HEP DOWN 2X`S                                   Shut Down Old
+                                                              IN SOUTH                                        Report Main Eng.
+                                                              STATIONý SWAP                                   Works As Attended.
+                                                              EQUIPMENT
+                                                              WITH #006 EQ
+                                                              1061
+
+12/22/15 11:06 am 27354         T408        2033        6     STOPPED AT        MBETSI-2016-651    CLOSED     Axle Lock Ok Old       1/13/16     MPI OIL          6/8/15
+                                                              AYER STATION                                    Report
+                                                              TO ADDRESS
+                                                              EXCESSIVE
+                                                              WHEEL SLIP -
+                                                              FOUND LOCKED
+                                                              AXLE ALARM
+
+12/22/15   6:27 pm 27355       T-052        1811       15     STOP IN           MSCIT-2015-1987    CLOSED     C/S And Acses Both     12/29/15    AC FILTER-30     6/8/15
+                                                              PENALTY HIT AT                                  Cut And Tested Ok
+                                                              BROADý CUT                                      For Service
+                                                              OUT ACSES
+
+12/22/15   8:26 pm 27356       T-051        2014        5     ENG FAULT         MSHSI-2015-17930   CLOSED     No Malarm Showing      12/24/15    MPI OIL         10/19/15
+                                                              ALARM - HOT OIL                                 On Screen Reported
+                                                              HP LIMITý LOW                                   By Mach
+                                                              AMPS TROUBLE                                    Oil Sample Done
+                                                              HOLDING TRACK
+                                                              SPEED
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                  Report Printed On: 1/28/2016                                                          Page 15 of 24
+
+
+
+                                                                                           W/O
+                                                                                           Close Date
+                                                                                                                        Daily Mechanical Failure Report
+                                                                                                                           From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                           W.O.          W.O.               W.O.                  Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail      Work Order #        Status       Comments          Close Date   Last PM   Finish Date
+
+12/23/15   5:58 am 27357                    1713        8     DUE TO            MRDVYD-2015-2800 CLOSED       Replaced Data Radio     1/9/16     CTC90M     7/22/04
+                                                              MULTIPLE FLIPS
+                                                              CUT OUT CABSý
+                                                              RULE 556
+
+12/23/15   6:56 am 27358        904         1131        0     CANNOT DRAW       MBETDH-2015-2313   CLOSED     Replaced Number 1      12/30/15    LOC90I     5/27/04
+                                                              POWER LEAVING                                   Motor And Number 2
+                                                              RTE 128                                         Speed Sensor
+                                                              STATIONý
+                                                              ENGNR CUT OUT
+                                                              TRACTION
+                                                              MOTOR #2 AND
+                                                              SPEED SENSOR.
+                                                              STILL CANNOT
+                                                              DRAW POWER.
+                                                              PSNGRS
+                                                              DEBOARDED AT
+                                                              THE RTE. TRAIN
+                                                              TERMINATED ON
+                                                              TIME AT RTE 128
+
+12/23/15   7:11 am 27360        905         2006        7     MECH RE-TEST      MSHSI-2015-18154   WORK       No Issues Reported                 MPI OIL    8/27/14
+                                                              ACSES DUE TO                         FINISHED   By Mach,And Elect
+                                                              ACSES NEVER                                     Speed Sensor
+                                                              WAKING UP AN                                    Replaced.
+                                                              PREVIOUS TRIP
+
+12/23/15   7:30 am 27359        604         2019        0     AT HERSEYý        MBETDH-2015-2317   CLOSED     92 Day Inspection      12/31/15    MPI OIL    10/6/15
+                                                              UNABLE TO                                       Complete
+                                                              BUILD ENOUGH
+                                                              AMPS TO GET
+                                                              OVER 15-20
+                                                              MPH.
+                                                              TROUBLESHOOT
+                                                              WITH 90-90ý
+                                                              TERMINATED
+                                                              LATE AT WEST
+                                                              ROXBURYý PUT
+                                                              OFF ON SIDING
+                                                              AND
+                                                              PASSENENGERS
+                                                              BOARDED 606.
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                  Report Printed On: 1/28/2016                                                     Page 16 of 24
+
+
+
+                                                                                           W/O
+                                                                                           Close Date
+                                                                                                                       Daily Mechanical Failure Report
+                                                                                                                           From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                          W.O.           W.O.               W.O.                  Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail     Work Order #        Status        Comments          Close Date   Last PM   Finish Date
+
+12/23/15   8:11 am 27363        793         2028       10     LATE SWAP DUE                                                                      MPI OIL    10/12/15
+                                                              TO MAIN ENGINE
+                                                              SHUTDOWN ON
+                                                              ENG 2028 AT
+                                                              SOUTH
+                                                              STATIONý
+                                                              UNABLE TO
+                                                              RESTART
+
+12/23/15 12:10 pm 27362         613         1031       10     LATE SWAP DUE    MSHSI-2015-18119   CLOSED     Inspected Acses.        12/29/15    LOC45M     5/13/06
+                                                              TO ACSES                                       Electrician Reports
+                                                              FAILURE ON ENG                                 Acses Is Cut-In And
+                                                              1031                                           Working As Intended
+
+12/23/15   9:30 pm 27364        055         1054        0     ENGINE DIED       MSCIT-2016-17     CLOSED     Inspected, Tested Ok     1/5/16     LOC45M     11/24/04
+                                                              TWICE IN
+                                                              BRAINTREE
+                                                              STATIONý
+                                                              90/90ý SLOW
+                                                              RESTART AND
+                                                              ON THE MOVE
+
+12/23/15 10:32 pm 27365         829         2020        7     7" SOUTH          MSHSI-2016-271    CLOSED     All Issues Are Ok        1/6/16     MPI OIL     7/2/15
+                                                              STATION LATE
+                                                              SWAP
+
+12/24/15 12:00 am 27366         901         1129       15     LOCO 1129        MSHSI-2015-18124   WORK       Engineers Side Wiper                LOC90I     3/19/04
+                                                              UNABLE GO                           FINISHED   Motor Replaced
+                                                              OVER 2 MPH.
+                                                              EQUIPMENT                                      Equipment Goes
+                                                              SWAPPED AT S&I                                 Track Speed No
+                                                              WITH 743                                       Problem Not Written
+                                                              EQUPMENT                                       Up
+
+12/24/15 12:00 am 27369         221         1029        0     UNABLE TO        MBETSI-2015-23535 CLOSED      Mech. T. Bartley        12/30/15    LOC180M    12/31/04
+                                                              RECOVER FROM                                   Inspected Found No
+                                                              A PC HIT. CUT                                  Train Control Issues
+                                                              OUT ACSES AND                                  Con Not Duplicate.
+                                                              TRAIN CONTROL.
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                      Page 17 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                                       Daily Mechanical Failure Report
+                                                                                                                           From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                          W.O.           W.O.                W.O.                       Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail     Work Order #        Status        Comments           Close Date   Last PM        Finish Date
+
+12/24/15   5:45 am 27367        504         1057       10     ENGINE SHUT      MBETSI-2016-175    CLOSED     Ask Tech. Colin To        1/5/16     LOC1YRI          2/3/04
+                                                              DOWNý CREW                                     Look At 1057 Set
+                                                              RESTART ENGINE                                 Which Hep Keep Shut
+                                                                                                             Down. He Said It
+                                                                                                             Was And Old Report
+                                                                                                             And It Was Not
+                                                                                                             Inspected.
+
+12/24/15   7:45 pm 27370        777         707         7     NO POWER IN      MRDVYD-2016-185    CLOSED     Replaced Missing Aei     1/26/16     BTC180I         9/13/07
+                                                              COACH 707                                      Tag B End - Supplied
+                                                              MOVE PSGRS TO                                  By Mbta
+                                                              ANOTHER COACH
+                                                                                                             No Recent Complaints
+                                                                                                             Of Cold Car Or Car
+                                                                                                             Without Power - This
+                                                                                                             Must Have Been
+                                                                                                             Addressed Previously
+
+12/24/15   9:02 pm 27371        630         1070       10     HEP SHUT DOWN    MBETDH-2016-70     CLOSED     C/O Tm Released For      1/13/16     LOC45M          4/12/04
+                                                              AT HIGHLAND                                    Service
+                                                              WENT BACK TO
+                                                              RESTART SAMEý
+                                                              WENT DOWN A
+                                                              SECOND TIME
+                                                              BRINGING IN
+                                                              DARK
+
+12/25/15 12:00 am 27372         2309        2011       35     TRAIN            MBETDH-2015-2332   CLOSED     M/E Shutting Down -      12/29/15    MPI OIL         1/13/16
+                                                              EXPERIENCE                                     Replaced Fuel Filters
+                                                              MULTIPLE                                       - Replaced Pressure
+                                                              ENGINE SHUT                                    Switch Completed
+                                                              DOWNS ON THE                                   Pre-Release
+                                                              2011 SET AT
+                                                              BET. EXCHANGE
+                                                              FOR THE 2033
+                                                              SET IN BOSTON.
+
+12/25/15   4:06 pm 27373        2012        1811        6     CUT OUT ACSES    MSCIT-2015-1987    CLOSED     C/S And Acses Both       12/29/15    AC FILTER-30     6/8/15
+                                                              ENROUTE DUE                                    Cut And Tested Ok
+                                                              TO PENALTY HIT                                 For Service
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                            Page 18 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                                       Daily Mechanical Failure Report
+                                                                                                                          From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                          W.O.          W.O.               W.O.                       Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail     Work Order #        Status       Comments          Close Date   Last PM        Finish Date
+
+12/27/15   8:30 am 27374        2754        1057       10     STOPPED ON THE   MBETSI-2016-175    CLOSED     Ask Tech. Colin To      1/5/16     LOC1YRI          2/3/04
+                                                              BRIDGE ENG                                     Look At 1057 Set
+                                                              (1057) SHUT                                    Which Hep Keep Shut
+                                                              DOWN MULTIPLE                                  Down. He Said It
+                                                              TIMES. ENGR                                    Was And Old Report
+                                                              WAS ABLE TO                                    And It Was Not
+                                                              RESTART AND                                    Inspected.
+                                                              COME IN.
+
+12/27/15 11:15 am 27375         2403        1620       12     EQUIPMENT NOT    MBETCH-2015-6178   OPEN                                          BTC180I         1/11/06
+                                                              READY TO
+                                                              DEPART BETý
+                                                              LATE INTO
+                                                              NORTH STATION.
+
+12/27/15   6:54 pm 27376        2056        1811        5     PC HIT CUT OUT   MSCIT-2015-1987    CLOSED     C/S And Acses Both     12/29/15    AC FILTER-30     6/8/15
+                                                              CAB AND ACSES.                                 Cut And Tested Ok
+                                                              C BOARDS                                       For Service
+                                                              INBOUND
+
+12/27/15   8:40 pm 27377        2209        1069       15     LAST MINUTE      MBETSI-2016-338    CLOSED     Old Report No Other     1/6/16     LOC90M          1/15/07
+                                                              EQUIPMENT                                      Issues.
+                                                              SWAP AT NORTH
+                                                              STATION. ENGR.
+                                                              HENNESSEY
+                                                              REPORTED
+                                                              MULTIPLE
+                                                              PC-HITS WHILE
+                                                              ON
+                                                              1069-5K-1643
+                                                              JUST PRIOR TO
+                                                              DEPARTURE.
+                                                              UNABLE TO
+                                                              RECOVER FROM.
+
+12/28/15   7:30 am 27378        604         1706       19     FAULTY         MBETSI-2015-23478 CLOSED        Replaced 3202 Board    12/28/15    CTC90I          1/15/05
+                                                              SPEEDOMETER.                                   On Coach
+                                                              UNABLE TO
+                                                              MAINTAIN TRACK
+                                                              SPEED
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                          Page 19 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                                       Daily Mechanical Failure Report
+                                                                                                                            From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                          W.O.          W.O.                 W.O.                  Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail     Work Order #        Status       Comments            Close Date   Last PM   Finish Date
+
+12/28/15   4:15 pm 27379        328         1027        6     LOST HEP         MBETSI-2015-23536 CLOSED      Inspected Hep, Check     12/30/15    LOC45M      9/9/04
+                                                              MULTIPLE TIMES                                 All 480 Cable, Check
+                                                              ENROUTE.                                       All Hvac, Check All
+                                                                                                             Mu .Found No
+                                                                                                             Problems With
+                                                                                                             Connections. Low On
+                                                                                                             Hep Oil. Broom And
+                                                                                                             Shovel In Nose Of
+                                                                                                             Locomotive. Side Well
+                                                                                                             Heater Work As
+                                                                                                             Attended.
+
+12/28/15   5:45 pm 27380        923         1530       16     LATE SWAP OF     MSHSI-2015-18162   CLOSED     Nothing On Map 100       12/31/15    CTC90I      1/6/05
+                                                              EQUIPMENT A/C                                  Old Reports
+                                                              ORIGINAL
+                                                              EQUIPMENT HAD
+                                                              CAB SIGNAL
+                                                              FAILURE
+
+12/28/15   7:20 pm 27381        275         1131       10     ENGR REPORTS      MBETSI-2016-50    CLOSED     #1 Traction Motor         1/4/16     LOC90I     5/27/04
+                                                              TO N. STA THAT                                 Was Cut Out. All
+                                                              A TRACTION                                     T/Motor And Speed
+                                                              MOTOR WAS CUT                                  Sensors Cut-In Ok
+                                                              OUT AND HE                                     For Services. Per
+                                                              COULD NOT GET                                  V.Lobuono.
+                                                              OVER 5 MPH.
+
+12/29/15   5:15 am 27382        400         1138        5     LOST IN LOCO     MBETDH-2016-231    CLOSED     S+I Reports,             1/28/16     LOC1YRI     3/2/04
+                                                              1138.                                          ?????????
+
+
+
+12/29/15 11:15 am 27385         816         1139        5     5`` LOR WIPERS    MBETDH-2016-10    CLOSED     Replaced Wiper Arm        1/4/16     LOC180M    10/6/08
+                                                              BROKE (1139)
+                                                              ENGR REDUCED
+                                                              SPEED DUE TO
+                                                              VISIBILITY
+
+12/29/15   5:55 pm 27386        273         274        10     NO. 273 HAD A
+                                                              GROUND RELAY
+                                                              HIT AND CUT
+                                                              OUT ONE
+                                                              TRACTION
+                                                              MOTOR.
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                       Page 20 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                                       Daily Mechanical Failure Report
+                                                                                                                          From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                          W.O.          W.O.               W.O.                  Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail     Work Order #        Status       Comments          Close Date   Last PM   Finish Date
+
+
+12/30/15   6:55 am 27390        352         1060        0     TRIP CANCELLED   MBETSI-2015-23538 CLOSED      Replace Windshield.    12/30/15    LOC90I      2/9/04
+                                                              DUE TO
+                                                              EQUIPMENT
+                                                              SHORTAGE
+                                                              ACCOUNT 274
+                                                              AND 1060 SETS
+                                                              NOT AVAILABLE
+                                                              FOR SERVICE.
+
+12/30/15   6:55 am 27403        352         1060        0     MORNING          MBETSI-2016-555    CLOSED     Hand Set Replace.      1/11/16     LOC90I      2/9/04
+                                                              EQUIPMENT                                      Dynamic Braking
+                                                              CYCLE SHORT 2                                  Dg13 Module
+                                                              SETS                                           Replaced But Unable
+                                                                                                             To Duplicate Road
+                                                                                                             Issues.
+
+12/30/15   6:56 am 27389        904         2006       40     CONSTANT         MSHSI-2015-18154   WORK       No Issues Reported                 MPI OIL    8/27/14
+                                                              WHEEL SLIP                          FINISHED   By Mach,And Elect
+                                                              ALARMS                                         Speed Sensor
+                                                              DEPARTING                                      Replaced.
+                                                              STOUGHTONý
+                                                              THEN UNABLE TO
+                                                              TAKE POWER AT
+                                                              CANTON JCT.
+                                                              TROUBLESHOOT
+                                                              WITH 90-90ý
+                                                              RESET BATTERY
+                                                              CHARGER
+                                                              BREAKER &
+                                                              COMPUTER.
+
+12/30/15   7:44 am 27391        607         1129        4     MAIN ENGINE       MBETDH-2016-7     CLOSED     Wiper Replaced          1/2/16     LOC90I     3/19/04
+                                                              SHUTDOWN AT
+                                                              SOUTH
+                                                              STATIONý
+                                                              RESTARTED BY
+                                                              MECHANICAL.
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                     Page 21 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                                        Daily Mechanical Failure Report
+                                                                                                                           From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                           W.O.          W.O.                W.O.                    Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail     Work Order #         Status       Comments           Close Date   Last PM     Finish Date
+
+12/30/15   5:30 pm 27393        421         1133       83     ENGINEER          MBETSI-2016-348    CLOSED     Aux. Generator           1/6/16     LOC45M        4/1/04
+                                                              REPORTS                                         Works As Attended
+                                                              UNABLE TO                                       No Other Issues Old
+                                                              MOVE ENGINE                                     Report.
+                                                              NO. 1133 UNDER
+                                                              ITS OWN POWER
+                                                              BECAUSE THE
+                                                              FUEL PUMP
+                                                              WOULDN`T
+                                                              SPIN. TRAIN NO.
+                                                              423 TIED ON TO
+                                                              421`S
+                                                              EQUIPMENT AND
+                                                              THEN SHOVED
+                                                              THE SET TO
+                                                              FITCHBURG.
+
+12/31/15 12:00 am 27399         112         1034        4     LOCOMOTIVE        MBETSI-2016-318    CLOSED     Performed Amps           1/6/16     LOC90I       10/7/04
+                                                              1034 BLEW                                       Tested Ok. Coolant
+                                                              COOLANT HOSE.                                   Hose Inspected Ok.
+                                                              EXTRA 3247 TO                                   Bell Cartridge
+                                                              THE RESCUE.                                     Replace.
+
+12/31/15   5:07 am 27394        800         1815        7     WAS RECIEVING     MBETCH-2016-148    WORK       Actuator Bolt Done                  AC FILTER-30 11/13/14
+                                                              PLENTY APPS IN                       FINISHED
+                                                              PVD YARD.
+
+12/31/15   7:22 am 27396        106         2011        7     LOCOMOTIVE        MBETSI-2016-337    CLOSED     Shutdown Enroute.        1/6/16     MPI OIL      1/13/16
+                                                              2011 DEAD                                       Delay Download
+                                                              BATTERIES WAIT                                  Done.
+                                                              FOR SET OF
+                                                              EQUIPMENT TO
+                                                              ARRIVE TO
+                                                              PROTECT.
+
+12/31/15   7:37 am 27397        038         1065       14     14" KINGSTON      MSHSI-2016-561     CLOSED     No New Report Of Air    1/12/16     LOC2YRM      12/12/03
+                                                              FACILITY COULD                                  Issues
+                                                              BUILD MAIN                                      Sump Drain
+                                                              RESERVOIR CUT                                    Cab Cleaned
+                                                              OUT SEVERAL
+                                                              TIMES TO
+                                                              RECOVER
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                  Report Printed On: 1/28/2016                                                       Page 22 of 24
+
+
+
+                                                                                           W/O
+                                                                                           Close Date
+                                                                                                                      Daily Mechanical Failure Report
+                                                                                                                          From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                          W.O.          W.O.                W.O.                  Last PM
+Occurred           Number     Train #      Equip ID    Min     Delay Detail    Work Order #         Status       Comments           Close Date   Last PM   Finish Date
+
+12/31/15   8:32 am 27398        005         1033        5     5" SOUTH         MBETDH-2016-5      CLOSED     Headlights Working       1/2/16     LOC45M     12/18/04
+                                                              STATION SWAP                                   As Intended
+                                                              EQUIP
+                                                              HEADLIGHT OUT
+                                                              ON LOCO 1033
+
+12/31/15   5:10 pm 27400        719         1075        4     LATE OUT OF       MSHSI-2016-9      CLOSED     Trouble Applying And     1/4/16     LOC45M     3/31/04
+                                                              READVILLE DUE                                  Releasing Brakes,
+                                                              TO MULTIPLE                                    Foreman And Carmen
+                                                              SETS OF EQUIP                                  Preformed Brake
+                                                              ARE DOWN                                       Tests At South
+                                                                                                             Station Could Not
+                                                                                                             Find Any Issue, Put
+                                                                                                             Train Set On The
+                                                                                                             Shuttle That Crew
+                                                                                                             Had No Issues With
+                                                                                                             The Brakes, No
+                                                                                                             Exception With Train
+                                                                                                             Set Will Be On 6701
+                                                                                                             East In Am
+
+12/31/15   5:30 pm 27401        115         1053        0     LOCOMOTIVE                                                                         LOC45M     6/26/04
+                                                              1053 MAIN
+                                                              ENGINE SHUT
+                                                              DOWN COMING
+                                                              INTO
+                                                              GLOUCESTER.
+                                                              CANNOT
+                                                              RESTART.
+                                                              TERMINATED ON
+                                                              TIME.
+                                                              PASSENGERS
+                                                              DETRAINED ON
+                                                              WASHINGTON ST
+                                                              AND WALKED TO
+                                                              STATION.
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                 Report Printed On: 1/28/2016                                                      Page 23 of 24
+
+
+
+                                                                                          W/O
+                                                                                          Close Date
+                                                                                                               Daily Mechanical Failure Report
+                                                                                                                  From: 12/1/2015 To: 12/31/2015
+
+Date/Time          Incident   Delayed       Failed    Delay                                         W.O.      W.O.        W.O.                  Last PM
+Occurred           Number     Train #      Equip ID    Min    Delay Detail    Work Order #         Status   Comments   Close Date   Last PM   Finish Date
+
+                                                       Total number of Equipment ID's: 100
+
+
+
+
+Privileged and Confidential Information
+MEC125 - Daily Mechanical Failure Report                                Report Printed On: 1/28/2016                                          Page 24 of 24
+
+
+
+                                                                                         W/O
+                                                                                         Close Date
 
